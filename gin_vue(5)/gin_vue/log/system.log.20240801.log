@@ -1,0 +1,10 @@
+{"client_ip":"::1","level":"info","msg":"","req_method":"POST","req_uri":"/admin/findAll","status_code":200,"time":"2024-08-01 15:57:32"}
+{"client_ip":"::1","level":"info","msg":"","req_method":"POST","req_uri":"/appointment/getdoctorschedule","status_code":200,"time":"2024-08-01 15:57:32"}
+{"client_ip":"::1","level":"info","msg":"","req_method":"POST","req_uri":"/admin/findAll","status_code":200,"time":"2024-08-01 15:57:44"}
+{"client_ip":"::1","level":"info","msg":"","req_method":"POST","req_uri":"/appointment/getdoctorschedule","status_code":200,"time":"2024-08-01 15:57:44"}
+{"client_ip":"::1","level":"info","msg":"","req_method":"POST","req_uri":"/patient/genCaptcha","status_code":200,"time":"2024-08-01 15:57:49"}
+{"client_ip":"::1","level":"info","msg":"","req_method":"POST","req_uri":"/admin/register","status_code":200,"time":"2024-08-01 15:58:06"}
+{"client_ip":"::1","level":"info","msg":"","req_method":"POST","req_uri":"/doctor/register","status_code":200,"time":"2024-08-01 15:58:08"}
+{"client_ip":"::1","level":"info","msg":"","req_method":"POST","req_uri":"/admin/register","status_code":200,"time":"2024-08-01 15:58:42"}
+{"client_ip":"::1","level":"info","msg":"","req_method":"POST","req_uri":"/patient/genCaptcha","status_code":200,"time":"2024-08-01 15:58:43"}
+{"client_ip":"::1","level":"info","msg":"","req_method":"POST","req_uri":"/admin/register","status_code":200,"time":"2024-08-01 15:58:48"}

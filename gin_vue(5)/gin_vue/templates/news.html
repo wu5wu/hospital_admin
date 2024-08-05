@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+<h2>news商品页面</h2>
+
+<form action="/index" method="post">
+    用户名：<input type="text" name="username" /><br>
+    密码： <input type="password" name="pwd"/>
+    <input type="submit" value="提交">
+</form>
+<form action="/patient/doupload" method="post" enctype="multipart/form-data">
+    用户名：<input type="text" name="username" /><br>
+    头像：<input type="file" name="face">
+    <input type="submit" value="提交">
+</form>
+
+
+<form action="/admin/user/doEdit" method="post" enctype="multipart/form-data">
+    用户名：<input type="text" name="username" /><br>
+    头像：<input type="file" name="face[]"><br>
+    头像：<input type="file" name="face[]"><br>
+    头像：<input type="file" name="face[]"><br>
+    <input type="submit" value="提交">
+</form>
+<h2>{{.title}}</h2>
+<h2>{{.username}}</h2>
+<h2>{{.pwd}}</h2>
+</body>
+</html>

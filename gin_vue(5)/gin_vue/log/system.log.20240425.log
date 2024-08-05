@@ -1,0 +1,17 @@
+{"client_ip":"::1","level":"info","msg":"","req_method":"GET","req_uri":"/admin/schedule/intelligentScheduling","status_code":200,"time":"2024-04-25 09:19:49"}
+{"client_ip":"::1","level":"info","msg":"","req_method":"GET","req_uri":"/admin/schedule/intelligentScheduling","status_code":200,"time":"2024-04-25 09:24:44"}
+{"client_ip":"::1","level":"info","msg":"","req_method":"POST","req_uri":"/admin/schedule/deletedoctorschedule","status_code":400,"time":"2024-04-25 10:32:20"}
+{"client_ip":"::1","level":"info","msg":"","req_method":"POST","req_uri":"/admin/schedule/deletedoctorschedule?scheduleId=23","status_code":200,"time":"2024-04-25 10:47:07"}
+{"client_ip":"::1","level":"info","msg":"","req_method":"POST","req_uri":"/admin/schedule/deletedoctorschedule?scheduleId=23","status_code":201,"time":"2024-04-25 10:49:04"}
+{"client_ip":"::1","level":"info","msg":"","req_method":"POST","req_uri":"/admin/schedule/deletedoctorschedule?scheduleId=8483","status_code":201,"time":"2024-04-25 10:49:35"}
+{"client_ip":"::1","level":"info","msg":"","req_method":"POST","req_uri":"/admin/schedule/deletedoctorschedule?scheduleId=8483","status_code":200,"time":"2024-04-25 10:52:25"}
+{"client_ip":"::1","level":"info","msg":"","req_method":"POST","req_uri":"/admin/schedule/deletedoctorschedule?scheduleId=8483","status_code":200,"time":"2024-04-25 10:52:42"}
+{"client_ip":"::1","level":"info","msg":"","req_method":"POST","req_uri":"/admin/schedule/deletedoctorschedule?scheduleId=8483","status_code":200,"time":"2024-04-25 10:55:12"}
+{"client_ip":"::1","level":"info","msg":"","req_method":"POST","req_uri":"/admin/schedule/deletedoctorschedule?scheduleId=8483","status_code":200,"time":"2024-04-25 10:55:31"}
+{"client_ip":"::1","level":"info","msg":"","req_method":"POST","req_uri":"/admin/schedule/adddoctorschedule","status_code":201,"time":"2024-04-25 11:03:32"}
+{"client_ip":"::1","level":"info","msg":"","req_method":"POST","req_uri":"/admin/schedule/adddoctorschedule","status_code":201,"time":"2024-04-25 11:05:34"}
+{"client_ip":"::1","level":"info","msg":"","req_method":"POST","req_uri":"/admin/schedule/adddoctorschedule","status_code":201,"time":"2024-04-25 11:07:49"}
+{"client_ip":"::1","level":"info","msg":"","req_method":"POST","req_uri":"/admin/schedule/adddoctorschedule","status_code":201,"time":"2024-04-25 11:09:19"}
+{"client_ip":"::1","level":"info","msg":"","req_method":"POST","req_uri":"/admin/schedule/adddoctorschedule","status_code":201,"time":"2024-04-25 11:10:59"}
+{"client_ip":"::1","level":"info","msg":"","req_method":"POST","req_uri":"/admin/schedule/adddoctorschedule","status_code":201,"time":"2024-04-25 11:11:53"}
+{"client_ip":"::1","level":"info","msg":"","req_method":"POST","req_uri":"/admin/schedule/adddoctorschedule","status_code":201,"time":"2024-04-25 11:12:12"}

@@ -1,0 +1,14 @@
+{"client_ip":"::1","level":"info","msg":"","req_method":"POST","req_uri":"/admin/schedule/getdoctorschedule","status_code":200,"time":"2024-05-15 15:14:19"}
+{"client_ip":"::1","level":"info","msg":"","req_method":"POST","req_uri":"/admin/schedule/finfdoctorschedule","status_code":200,"time":"2024-05-15 15:14:25"}
+{"client_ip":"::1","level":"info","msg":"","req_method":"GET","req_uri":"/admin/schedule/intelligentScheduling","status_code":200,"time":"2024-05-15 15:14:31"}
+{"client_ip":"::1","level":"info","msg":"","req_method":"POST","req_uri":"/admin/schedule/finfdoctorschedule","status_code":200,"time":"2024-05-15 15:14:31"}
+{"client_ip":"::1","level":"info","msg":"","req_method":"POST","req_uri":"/admin/schedule/finfdoctorschedule","status_code":200,"time":"2024-05-15 15:14:35"}
+{"client_ip":"::1","level":"info","msg":"","req_method":"POST","req_uri":"/admin/schedule/finfdoctorschedule","status_code":200,"time":"2024-05-15 15:14:37"}
+{"client_ip":"::1","level":"info","msg":"","req_method":"POST","req_uri":"/admin/schedule/finfdoctorschedule","status_code":200,"time":"2024-05-15 15:14:41"}
+{"client_ip":"::1","level":"info","msg":"","req_method":"POST","req_uri":"/admin/schedule/finfdoctorschedule","status_code":200,"time":"2024-05-15 15:14:44"}
+{"client_ip":"::1","level":"info","msg":"","req_method":"POST","req_uri":"/admin/schedule/finfdoctorschedule","status_code":200,"time":"2024-05-15 15:14:46"}
+{"client_ip":"::1","level":"info","msg":"","req_method":"POST","req_uri":"/admin/schedule/finfdoctorschedule","status_code":200,"time":"2024-05-15 15:15:14"}
+{"client_ip":"::1","level":"info","msg":"","req_method":"POST","req_uri":"/admin/schedule/finfdoctorschedule","status_code":200,"time":"2024-05-15 15:15:18"}
+{"client_ip":"::1","level":"info","msg":"","req_method":"POST","req_uri":"/admin/findAll","status_code":400,"time":"2024-05-15 15:15:30"}
+{"client_ip":"::1","level":"info","msg":"","req_method":"POST","req_uri":"/admin/schedule/getdoctorschedule","status_code":200,"time":"2024-05-15 15:15:50"}
+{"client_ip":"::1","level":"info","msg":"","req_method":"POST","req_uri":"/admin/schedule/finfdoctorschedule","status_code":200,"time":"2024-05-15 15:15:53"}

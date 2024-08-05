@@ -1,0 +1,8 @@
+{"client_ip":"::1","level":"info","msg":"","req_method":"POST","req_uri":"/register","status_code":200,"time":"2024-03-29 15:50:21"}
+{"client_ip":"::1","level":"info","msg":"","req_method":"POST","req_uri":"/patient/update","status_code":401,"time":"2024-03-29 15:50:56"}
+{"client_ip":"::1","level":"info","msg":"","req_method":"POST","req_uri":"/patient/update","status_code":401,"time":"2024-03-29 15:56:23"}
+{"client_ip":"::1","level":"info","msg":"","req_method":"POST","req_uri":"/patient/update","status_code":401,"time":"2024-03-29 15:56:23"}
+{"client_ip":"::1","level":"info","msg":"","req_method":"POST","req_uri":"/patient/register","status_code":200,"time":"2024-03-29 20:19:01"}
+{"client_ip":"::1","level":"info","msg":"","req_method":"POST","req_uri":"/patient/register","status_code":401,"time":"2024-03-29 20:22:58"}
+{"client_ip":"::1","level":"info","msg":"","req_method":"POST","req_uri":"/patient/update","status_code":401,"time":"2024-03-29 20:23:39"}
+{"client_ip":"::1","level":"info","msg":"","req_method":"POST","req_uri":"/login?username=pcwpcw\u0026password=123456\u0026name=%E5%BD%AD%E6%98%A5%E6%97%BA\u0026identity=3602812000129013\u0026img","status_code":404,"time":"2024-03-29 20:28:14"}
